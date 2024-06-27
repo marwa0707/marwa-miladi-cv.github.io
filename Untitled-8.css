@@ -1,0 +1,68 @@
+h2{
+    font-size: 25px;
+    line-height: 1;
+}
+ul li{
+    font-size: 22px
+}
+p{
+    font-size: 22px;
+    font-style: initial;
+}
+h1{
+    font-size: 26px;
+}
+h6{
+    font-size: 24px;
+    font-style: normal;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+body{
+    font-family: serif;
+}
+.marwa-cv{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: 1px solid black;
+    ;
+}
+.miladi{
+    height: 60%;
+    width: 60%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 70px;
+    margin-right: 20px;
+    position: relative;;
+    background-color: blanchedalmond;
+}
+ .img1{
+    height: 4%;
+    width: 4%;
+}
+.img2{
+    height: 4%;
+    width: 4%;
+}
+.img3{
+    height: 4%;
+    width: 4%;
+}
+.img4{
+    height: 4%;
+    width: 4%;  
+}
+.marwa-cv .left .left-second {
+    align-items: center;
+    margin: 7%;
+    
+}
+.marwa-cv .left{
+    border: 1px solid black;
+    margin: 55px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 35px;
+}
+
